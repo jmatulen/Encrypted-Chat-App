@@ -3,8 +3,7 @@ Peer to Peer Chat App
 =====================
 Joshua Matulenas
 
-Built in the Nim programming language. To build, you will need a Nim compiler. However nim compiles to c,
-so running will not be a problem.
+Built in the Nim programming language. To build, you will need a Nim compiler.
 
 This application allows users to send messages to each other, while connected to the same chat room.
 ________
@@ -31,6 +30,6 @@ To use
             Note: The peer id of the recipient must be known. The list of connected peer Id's 
                   is not known to the user since it isn't displayed. However since we are running all
                   the peers, we know the peer Id's. This would have to be fixed in real life, however for the
-                  purpose of the demonstration it will suffice.
+                  purpose of the demonstration it will suffice. **This will be remedied soon
    
    4.) To exit the chatroom, enter crtl+c
