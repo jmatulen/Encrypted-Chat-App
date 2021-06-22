@@ -27,9 +27,9 @@ To use
                                                    example: user@domain:~/path/to/program$ --1 hello
                                                             This will encrypt "--1 hello" and send it to peer with peer id 1.
 
-            Note: The peer id of the recipient must be known. The list of connected peer Id's 
+            Note: The peer id of the recipient must be known. The list of connected peer Ids 
                   is not known to the user since it isn't displayed. However since we are running all
-                  the peers, we know the peer Id's. This would have to be fixed in real life, however for the
+                  the peers, we know the peer Ids. This would have to be fixed in real life, however for the
                   purpose of the demonstration it will suffice. **This will be remedied soon
    
    4.) To exit the chatroom, enter crtl+c
